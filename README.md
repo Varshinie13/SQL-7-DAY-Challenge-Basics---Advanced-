@@ -181,6 +181,6 @@ Learning Database Normalization (1NF, 2NF, 3NF) to design more efficient schemas
 
 Integrating these SQL databases with Python for Data Visualization.
 
-#SQL #Database #MySQL #RelationalDatabase #DataAnalysis#7DayChallenge #CodingChallenge #EntryLevelDataAnalyst #LearnInProgres
+#SQL #Database #MySQL #RelationalDatabase #DataAnalysis#7DayChallenge #CodingChallenge #EntryLevelDataAnalyst 
 
 
