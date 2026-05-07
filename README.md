@@ -101,14 +101,22 @@ The final phase of this challenge focuses on connecting fragmented data, nesting
 Day 3 , 4 and 5 queries:
 <img width="951" height="500" alt="Screenshot 2026-05-07 201510" src="https://github.com/user-attachments/assets/f91bf799-1e17-4a13-9fb3-9f4fa98d32ef" />
 
+&nbsp;
+
 
 <img width="953" height="502" alt="Screenshot 2026-05-07 201455" src="https://github.com/user-attachments/assets/e4046ae9-51d3-45b8-aae6-1e048a0c6d30" />
+
+&nbsp;
 
 
 <img width="953" height="498" alt="Screenshot 2026-05-07 201445" src="https://github.com/user-attachments/assets/2fe6a0cf-0bde-400b-ba16-768a7a97d872" />
 
+&nbsp;
+
 
 <img width="953" height="495" alt="Screenshot 2026-05-07 201415" src="https://github.com/user-attachments/assets/aaf81b4f-65b8-4834-b160-a6cba31980e6" />
+
+&nbsp;
 
 
 
@@ -147,14 +155,22 @@ Day 3 , 4 and 5 queries:
 Day 6 and 7 queries:
 <img width="953" height="501" alt="Screenshot 2026-05-07 201647" src="https://github.com/user-attachments/assets/23baf777-196a-43ef-8a4a-6de73dc7f770" />
 
+&nbsp;
+
 
 <img width="953" height="498" alt="Screenshot 2026-05-07 201639" src="https://github.com/user-attachments/assets/3023e257-b5d7-4259-8409-e5bbaf8a7018" />
+
+&nbsp;
 
 
 <img width="952" height="498" alt="Screenshot 2026-05-07 201627" src="https://github.com/user-attachments/assets/c7397e22-ddaf-4770-a602-9d73a5ed052d" />
 
+&nbsp;
+
 
 <img width="953" height="500" alt="Screenshot 2026-05-07 201615" src="https://github.com/user-attachments/assets/c7beead5-bce3-41a2-b2d4-a272576084c6" />
+
+&nbsp;
 
 
 🏁 Conclusion:
