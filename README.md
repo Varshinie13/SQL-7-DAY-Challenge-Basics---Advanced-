@@ -97,7 +97,7 @@ o    MIN() → lowest sale amount
 
 
 ## 📅 Day 5: Joins & Built-in Functions:
-- - `/Day_05_Joins/`: Script for relational reporting and string manipulation.
+- `/Day_05_Joins/`: Script for relational reporting and string manipulation.
 **Focus:** Data Consolidation and Transformation.
 - **Multi-Table Joins:** Connecting `Orders`, `Customers`, and `Products` to create a complete business snapshot.
 - **Join Types:** Implementation of `INNER JOIN`, `LEFT JOIN`, and `CROSS JOIN`.
@@ -157,7 +157,7 @@ The final phase of this challenge focuses on connecting fragmented data, nesting
 ## 🛠️ Skills Demonstrated
 | Feature | Application |
 | :--- | :--- |
-| **Subqueries** | Identified "Top 10%" customers using nested aggregations. |
+| **Subqueries** | Identified locations and Salary related information using single, multi and Correlated subQueries. |
 | **Views** | Created a `DepartmentSalarystates` view for executive reporting. |
 | **Triggers** | Built an after Trigger to keep a record every time a new employee is added  |
 
