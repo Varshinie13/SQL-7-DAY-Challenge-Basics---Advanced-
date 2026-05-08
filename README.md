@@ -37,7 +37,7 @@ Day 6: Advanced Querying (Subqueries & CTEs)
 Day 7: Automation & Security (Views & Triggers)
 
 
-📅 Day 1: Database Foundation & CRUD Operations
+📅 Day 1 & 2: Database Foundation & CRUD Operations
 
 ### 🎯 Objectives
 - Master Data Definition Language (DDL): `CREATE`, `ALTER`, `RENAME`, `TRUNCATE`, and `DROP`.
@@ -58,10 +58,16 @@ Day 7: Automation & Security (Views & Triggers)
   <img width="960" height="540" alt="Screenshot 2026-05-07 201320" src="https://github.com/user-attachments/assets/e7648059-4672-454f-b58c-4afdd57fbdfe" />
 
 
-- 🛒 Days 3 & 4: E-Commerce Data Analysis
+- 🛒 Days 3 ,4 & 5: E-Commerce Data Analysis
 
 ## 🎯 Objectives
 Transitioning from structural setup to data retrieval. The focus of these two days is mastering how to filter, sort, and limit data using logical operators and SQL clauses.
+
+## 📂 Project Structure:
+- `/Day_03_ Clauses & Operators/`: Implementation of Where Clause,Comparison Operators, Arithmatic Operators,Logical Operators, is null/ is not null,in and Not in, between and not between, like and not like
+- `/Day_04_ Clauses & Operators/`: Advanced logic using ORDER BY & LIMIT,Aggregate Functions,GROUP BY & HAVING,Window Functions.
+- `/Day_05_Automation/`: operation using left join, right join, Inner Join .
+
 
 ## 🛠️ SQL Concepts Applied
 - **Filtering Data:** `WHERE` clause with logical operators (`AND`, `OR`, `NOT`).
@@ -88,21 +94,29 @@ o    MAX() → highest sale amount
 o    MIN() → lowest sale amount
 6. Management wants a ranking of products based on their prices.
 
-The final phase of this challenge focuses on connecting fragmented data, nesting logic for complex reporting, and implementing database automation using Triggers.
 
-## 📅 Day 5: Joins & Built-in Functions
+
+## 📅 Day 5: Joins & Built-in Functions:
+- - `/Day_05_Joins/`: Script for relational reporting and string manipulation.
 **Focus:** Data Consolidation and Transformation.
 - **Multi-Table Joins:** Connecting `Orders`, `Customers`, and `Products` to create a complete business snapshot.
 - **Join Types:** Implementation of `INNER JOIN`, `LEFT JOIN`, and `CROSS JOIN`.
 - **String & Date Functions:** Using `CONCAT()`, `UPPER()`, and `DATEDIFF()` to clean and format report data.
 - **Mathematical Functions:** Using `ROUND()` and `CEIL()` for financial calculations.
 
+
+  ## 🛠️ Skills Demonstrated
+| Feature | Application |
+| :--- | :--- |
+| **Clauses & Operators** | Perform the operation to fetch the require details from tables. |
+| **Clauses & Operators** | Created the Window functions, order by , group by to order the table for insights |
+| **Joins** | Combined 3+ tables to generate comprehensive sales reports. |
+
+
 ---
 Day 3 , 4 and 5 queries:
-<img width="951" height="500" alt="Screenshot 2026-05-07 201510" src="https://github.com/user-attachments/assets/f91bf799-1e17-4a13-9fb3-9f4fa98d32ef" />
 
 &nbsp;
-
 
 <img width="953" height="502" alt="Screenshot 2026-05-07 201455" src="https://github.com/user-attachments/assets/e4046ae9-51d3-45b8-aae6-1e048a0c6d30" />
 
@@ -118,7 +132,11 @@ Day 3 , 4 and 5 queries:
 
 &nbsp;
 
+<img width="951" height="500" alt="Screenshot 2026-05-07 201510" src="https://github.com/user-attachments/assets/f91bf799-1e17-4a13-9fb3-9f4fa98d32ef" />
 
+&nbsp;
+
+The final phase of this challenge focuses on connecting fragmented data, nesting logic for complex reporting, and implementing database automation using Triggers.
 
 
 
@@ -139,16 +157,14 @@ Day 3 , 4 and 5 queries:
 ## 🛠️ Skills Demonstrated
 | Feature | Application |
 | :--- | :--- |
-| **Joins** | Combined 3+ tables to generate comprehensive sales reports. |
 | **Subqueries** | Identified "Top 10%" customers using nested aggregations. |
-| **Views** | Created a `Monthly_Sales_Summary` view for executive reporting. |
-| **Triggers** | Built an `Update_Stock` trigger to prevent overselling of products. |
+| **Views** | Created a `DepartmentSalarystates` view for executive reporting. |
+| **Triggers** | Built an after Trigger to keep a record every time a new employee is added  |
 
 ---
 
 ## 📂 Project Structure
-- `/Day_05_Joins/`: Script for relational reporting and string manipulation.
-- `/Day_06_Subqueries/`: Advanced logic using CTEs and nested SELECTs.
+- `/Day_06_Subqueries/`: Advanced logic using Single and Multi row Subqueries and nested SELECTs.
 - `/Day_07_Automation/`: Implementation of Views and Row-level Triggers.
 
 
